@@ -1,6 +1,6 @@
 # Hi, I'm Prosper 
 
- **Cybersecurity Analyst** focused on building practical, hands-on skills in network security, incident investigation, and web application security.
+Am a **Cybersecurity Analyst** focused on building practical, hands-on skills in network security, incident investigation, and web application security.
 
 ---
 
